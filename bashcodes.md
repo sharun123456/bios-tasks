@@ -105,7 +105,8 @@
 
 9a
 
-![bash 9a](https://user-images.githubusercontent.com/69411242/227699169-56d9f742-74f5-4735-a60d-a56f306e0bb8.p
+![bash 9a](https://user-images.githubusercontent.com/69411242/227714013-8ed85d4f-5529-4cf6-bc81-af455c9cff7a.png)
+
 
 9b
 
@@ -117,17 +118,17 @@
 
 11a
 
-![11 a](https://user-images.githubusercontent.com/69411242/227699226-5a65cd3f-4b9d-4e36-9720-03ef279e7df1.pn
+![11 a](https://user-images.githubusercontent.com/69411242/227714024-3b36cc83-ffae-4eec-9649-143314c60474.png)
 
 11b
 
 ![bash 11 b](https://user-images.githubusercontent.com/69411242/227713965-b307d9ee-9f53-4218-a744-0673924d0b4e.png)
 
-12a
+12a answer minimum time = 7.472
 
 ![bash 12a min time 7 472](https://user-images.githubusercontent.com/69411242/227699252-a56fc399-074a-4c10-9dc9-d12fdf9176c5.png)
 
-12b
+12b answer average time = 12.365
 
 ![12b avg time 12 365](https://user-images.githubusercontent.com/69411242/227699270-20d2a2c0-09fb-4598-8957-caba7e56d568.png)
 

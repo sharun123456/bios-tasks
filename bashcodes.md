@@ -38,14 +38,18 @@
 ![bash 2g](https://user-images.githubusercontent.com/69411242/227698819-95ea4d81-bd56-44b2-ad89-6de61206dfc8.png)
 
 3a
-![bash 3a](https://user-images.githubusercontent.com/69411242/227698826-d772ce08-f705-4e86-8ca4-7b22abc650e5.png)
+
+![3a](https://user-images.githubusercontent.com/69411242/227713928-e482aed8-5cea-42fa-8830-03a2eb911b7c.png)
+
 
 3b
-![bash 3b](https://user-images.githubusercontent.com/69411242/227698833-f1f88d17-9bb6-425f-a7d4-bdbcc5b3f442.png)
+
+![3b](https://user-images.githubusercontent.com/69411242/227713940-bd2beb55-9eb0-47c4-bfcc-11f6a53babb0.png)
 
 3c
 
-![bash 3c](https://user-images.githubusercontent.com/69411242/227698840-4a3c3547-b868-4382-8a7a-489b52b36615.png)
+![3c](https://user-images.githubusercontent.com/69411242/227713952-c23f9480-3582-4228-9674-13e718df9bd4.png)
+
 
 4a
 
@@ -117,7 +121,7 @@
 
 11b
 
-![bash 11 b](https://user-images.githubusercontent.com/69411242/227699244-a066c371-84d6-42d9-814a-02d68477aa03.png)
+![bash 11 b](https://user-images.githubusercontent.com/69411242/227713965-b307d9ee-9f53-4218-a744-0673924d0b4e.png)
 
 12a
 

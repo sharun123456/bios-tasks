@@ -81,7 +81,7 @@
 
 6b
 
-![bash 6b](https://user-images.githubusercontent.com/69411242/227699085-e7413726-74b1-4fa2-9a46-626f1bb29763.pn)
+![bash 6b](https://user-images.githubusercontent.com/69411242/227700182-f3f954ae-f78d-410b-9bac-0c4b194a7332.png)
 
 7a
 

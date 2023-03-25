@@ -129,6 +129,7 @@
 
 13
 
+![bash 13](https://user-images.githubusercontent.com/69411242/227703714-1d028497-1f9f-4743-af88-a4682c3cbdc8.png)
 
 
 14a

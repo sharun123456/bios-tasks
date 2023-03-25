@@ -65,15 +65,3 @@ class Graduatestudent extends Student {
     }
 }
 
-class main{
-    public static void main(String[] args) {
-        Student s1 = new Student("sharun", 22029);
-        s1.addCourse("java");
-        s1.addCourse("python");
-        s1.printInfo();
-
-        Graduatestudent s2 = new Graduatestudent("nani", 22016, "Computer Science");
-        s2.addCourse("DBMS");
-        s2.printInfo();
-    }
-}
